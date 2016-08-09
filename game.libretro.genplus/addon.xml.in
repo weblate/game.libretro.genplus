@@ -6,6 +6,7 @@
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.genesis" version="1.0.0"/>
+		<import addon="resource.games.genplus" optional="true"/>
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
