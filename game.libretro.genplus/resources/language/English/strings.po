@@ -29,62 +29,86 @@ msgid "Core-provided aspect ratio"
 msgstr ""
 
 msgctxt "#30003"
-msgid "System bootrom"
+msgid "Audio filter"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Blargg NTSC filter"
+msgid "System bootrom"
 msgstr ""
 
 msgctxt "#30005"
-msgid "CD System BRAM"
+msgid "Blargg NTSC filter"
 msgstr ""
 
 msgctxt "#30006"
-msgid "YM2612 DAC quantization"
+msgid "CD System BRAM"
 msgstr ""
 
 msgctxt "#30007"
-msgid "System lockups"
+msgid "YM2612 DAC quantization"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Game Gear extended screen"
+msgid "System lockups"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Show Lightgun crosshair"
+msgid "Game Gear extended screen"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Invert Mouse Y-axis"
+msgid "Show Lightgun crosshair"
 msgstr ""
 
 msgctxt "#30011"
-msgid "LCD Ghosting filter"
+msgid "Invert Mouse Y-axis"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Cartridge lock-on"
+msgid "LCD Ghosting filter"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Borders"
+msgid "Cartridge lock-on"
 msgstr ""
 
 msgctxt "#30014"
-msgid "System region"
+msgid "Low-pass filter %"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Interlaced mode 2 output"
+msgid "Remove per-line sprite limit"
 msgstr ""
 
 msgctxt "#30016"
-msgid "System hardware"
+msgid "CPU speed"
 msgstr ""
 
 msgctxt "#30017"
+msgid "Borders"
+msgstr ""
+
+msgctxt "#30018"
+msgid "System region"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Interlaced mode 2 output"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Sound output"
+msgstr ""
+
+msgctxt "#30021"
+msgid "System hardware"
+msgstr ""
+
+msgctxt "#30022"
 msgid "Master System FM"
+msgstr ""
+
+msgctxt "#30023"
+msgid "YM2612/YM3438 core"
 msgstr ""
 

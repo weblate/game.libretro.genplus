@@ -1,1 +1,1 @@
-genplus https://github.com/garbear/Genesis-Plus-GX vfs
+genplus https://github.com/libretro/Genesis-Plus-GX master
