@@ -22,6 +22,6 @@
 		<setting label="30019" type="select" id="genesis_plus_gx_sound_output" values="stereo|mono" default="stereo"/>
 		<setting label="30020" type="select" id="genesis_plus_gx_system_hw" values="auto|sg-1000|sg-1000 II|mark-III|master system|master system II|game gear|mega drive / genesis" default="auto"/>
 		<setting label="30021" type="select" id="genesis_plus_gx_ym2413" values="auto|disabled|enabled" default="auto"/>
-		<setting label="30022" type="select" id="genesis_plus_gx_ym2612" values="mame (ym2612)|mame (asic ym3438)|mame (enhanced ym3438)|nuked (ym2612)|nuked (asic ym3438)|nuked (discrete ym3438)" default="mame (ym2612)"/>
+		<setting label="30022" type="select" id="genesis_plus_gx_ym2612" values="mame (ym2612)|mame (asic ym3438)|mame (enhanced ym3438)|nuked (ym2612)|nuked (ym3438)" default="mame (ym2612)"/>
 	</category>
 </settings>
