@@ -21,23 +21,23 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "68K address error"
+msgid "68K Address Error"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Core-provided aspect ratio"
+msgid "Core-Provided Aspect Ratio"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Audio filter"
+msgid "Audio Filter"
 msgstr ""
 
 msgctxt "#30004"
-msgid "System boot ROM"
+msgid "System Boot ROM"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Blargg NTSC filter"
+msgid "Blargg NTSC Filter"
 msgstr ""
 
 msgctxt "#30006"
@@ -45,23 +45,23 @@ msgid "CD System BRAM"
 msgstr ""
 
 msgctxt "#30007"
-msgid "FM preamp level"
+msgid "FM Preamp Level"
 msgstr ""
 
 msgctxt "#30008"
-msgid "System lockups"
+msgid "System Lock-Ups"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Game Gear extended screen"
+msgid "Game Gear Extended Screen"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Show Lightgun crosshair"
+msgid "Show Light Gun Crosshair"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Lightgun input"
+msgid "Light Gun Input"
 msgstr ""
 
 msgctxt "#30012"
@@ -69,45 +69,53 @@ msgid "Invert Mouse Y-Axis"
 msgstr ""
 
 msgctxt "#30013"
-msgid "LCD Ghosting filter"
+msgid "LCD Ghosting Filter"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Cartridge lock-on"
+msgid "Cartridge Lock-On"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Low-pass filter %"
+msgid "Low-Pass Filter %"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Borders"
+msgid "Remove Per-Line Sprite Limit"
 msgstr ""
 
 msgctxt "#30017"
-msgid "PSG preamp level"
+msgid "CPU Speed"
 msgstr ""
 
 msgctxt "#30018"
-msgid "System region"
+msgid "Borders"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Interlaced mode 2 output"
+msgid "PSG Preamp Level"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Sound output"
+msgid "System Region"
 msgstr ""
 
 msgctxt "#30021"
-msgid "System hardware"
+msgid "Interlaced Mode 2 Output"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Master System FM (YM2413)"
+msgid "Sound Output"
 msgstr ""
 
 msgctxt "#30023"
+msgid "System Hardware"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Master System FM (YM2413)"
+msgstr ""
+
+msgctxt "#30025"
 msgid "Mega Drive / Genesis FM"
 msgstr ""

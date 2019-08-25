@@ -1,1 +1,1 @@
-genplus https://github.com/libretro/Genesis-Plus-GX/archive/52fd1e4e0fe338cb55f80b12f05d7fdede87a3f2.zip
+genplus https://github.com/libretro/Genesis-Plus-GX/archive/a02ec8763e662bab6a2530dd308255f059b999ff.zip
