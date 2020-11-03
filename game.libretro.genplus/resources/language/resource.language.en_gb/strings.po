@@ -53,69 +53,77 @@ msgid "System Lock-Ups"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Game Gear Extended Screen"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Show Light Gun Crosshair"
+msgid "Frameskip Threshold (%)"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Light Gun Input"
+msgid "Game Gear Extended Screen"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Invert Mouse Y-Axis"
+msgid "Show Light Gun Crosshair"
 msgstr ""
 
 msgctxt "#30013"
-msgid "LCD Ghosting Filter"
+msgid "Light Gun Input"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Cartridge Lock-On"
+msgid "Invert Mouse Y-Axis"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Low-Pass Filter %"
+msgid "LCD Ghosting Filter"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Remove Per-Line Sprite Limit"
+msgid "Cartridge Lock-On"
 msgstr ""
 
 msgctxt "#30017"
-msgid "CPU Speed"
+msgid "Low-Pass Filter %"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Borders"
+msgid "Remove Per-Line Sprite Limit"
 msgstr ""
 
 msgctxt "#30019"
-msgid "PSG Preamp Level"
+msgid "CPU Speed"
 msgstr ""
 
 msgctxt "#30020"
-msgid "System Region"
+msgid "Borders"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Interlaced Mode 2 Output"
+msgid "PSG Preamp Level"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Sound Output"
+msgid "System Region"
 msgstr ""
 
 msgctxt "#30023"
-msgid "System Hardware"
+msgid "Interlaced Mode 2 Output"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Master System FM (YM2413)"
+msgid "Sound Output"
 msgstr ""
 
 msgctxt "#30025"
+msgid "System Hardware"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Master System FM (YM2413)"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Mega Drive / Genesis FM"
 msgstr ""
